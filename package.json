@@ -1,0 +1,13 @@
+{
+  "name": "ninghai-mahjong",
+  "version": "1.0.0",
+  "description": "宁海麻将游戏实现",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": ["mahjong", "ninghai", "game", "麻将"],
+  "author": "Your Name",
+  "license": "MIT"
+}
